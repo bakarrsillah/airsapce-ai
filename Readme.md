@@ -52,7 +52,7 @@ This system demonstrates expertise in:
 
 A live demo of the system can be deployed using **Streamlit Community Cloud**:
 
-[Insert your Streamlit app URL here]
+[https://airsapce-ai-gofq97zd5cqp8yjecvbpec.streamlit.app/]
 
 ---
 
@@ -60,5 +60,5 @@ A live demo of the system can be deployed using **Streamlit Community Cloud**:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/airspace-ai.git
+git clone https://github.com/bakarrsillah/airsapce-ai.git
 cd airspace-ai
